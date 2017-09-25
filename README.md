@@ -1,4 +1,4 @@
-# AML
+# AML CS5785
 
 Applied Machine Learning Assignments
   
